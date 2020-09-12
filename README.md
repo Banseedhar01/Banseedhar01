@@ -4,7 +4,7 @@ Currently, I am pursuing Bachelors in Computer Engineering from NIT, Surat.
 
 - 🌱 I’m currently learning ...Everythings
 
-##### Things I code with
+##### <b>Things I code with</b>
 <p>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
