@@ -1,6 +1,6 @@
-### Hi there! I am Banseedhar👋
+### Hi there! I'm Banseedhar👋
 
-Currently, I am pursuing Bachelors in Computer Engineering from NIT, Surat.
+Currently, I'm pursuing Bachelors in Computer Engineering from NIT, Surat.
 
 - 🌱 I’m currently improving my competitive programming skills 
 
