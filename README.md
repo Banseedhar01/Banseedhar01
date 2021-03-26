@@ -1,6 +1,6 @@
 ### Hi there! I'm Banseedhar👋
 
-##### pursuing  B.Tech in computer science and engineering from SVNIT Surat.
+#### pursuing  B.Tech in computer science and engineering from SVNIT Surat.
 
 - 🌱 I’m currently improving my competitive programming skills 
 
