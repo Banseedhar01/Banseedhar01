@@ -2,7 +2,7 @@
 
 Currently, I am pursuing Bachelors in Computer Engineering from NIT, Surat.
 
-- 🌱 I’m currently learning ...Everythings
+- 🌱 I’m currently improving competitive programming 
 
 <h3><b>Things I code with</b></h3>
 <p>
