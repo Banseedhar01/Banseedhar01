@@ -2,8 +2,6 @@
 
 #### pursuing  B.Tech in computer science and engineering from SVNIT Surat.
 
-- 🌱 I’m currently improving my competitive programming skills 
-
 <h3><b>Things I code with</b></h3>
 <p>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
