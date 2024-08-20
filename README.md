@@ -1,6 +1,6 @@
 👋 Hello, I'm Banseedhar
 👨‍💻 Software Engineer at Samsung Research, Bangalore
-I’m passionate about developing intelligent systems and exploring the vast world of data. My expertise lies in C, C++, and Python, and I'm currently diving deep into Machine Learning and Data Science to solve complex problems and make data-driven decisions.
+I’m passionate about developing intelligent systems and exploring the vast world of data. My expertise lies in C, C++, and Python, and I'm diving deep into Machine Learning and Data Science to solve complex problems and make data-driven decisions.
 
 🛠️ Tech Stack:
 Languages & Tools:
@@ -14,18 +14,17 @@ Languages & Tools:
   <br/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 </p>
 I’m currently learning:
 🤖 Advanced Machine Learning & Deep Learning
 📊 Data Science Techniques and Tools
-I’m working on:
-🧠 AI Model X - Developing a model for predictive analytics and decision-making.
-📈 DataPipelinePro - Creating a robust pipeline for data processing and analysis.
 I’m looking to collaborate on:
 🤝 Open-source projects related to machine learning, data science, or AI research.
-How to reach me:
-💼 LinkedIn
-🐦 Twitter
 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Banseedhar01&theme=chartreuse-dark&show_icons=true" alt="Banseedhar's GitHub Stats"/>
