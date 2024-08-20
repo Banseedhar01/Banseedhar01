@@ -1,6 +1,6 @@
 ### Hi there! I'm Banseedhar👋
 
-#### pursuing  B.Tech in computer science and engineering from SVNIT Surat.
+#### Software Engineer at Samsung Research, Banglore.
 
 <h3><b>Things I code with</b></h3>
 <p>
