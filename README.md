@@ -1,9 +1,16 @@
-👋 Hello, I'm Banseedhar
-👨‍💻 Software Engineer at Samsung Research, Bangalore
-I’m passionate about developing intelligent systems and exploring the vast world of data. My expertise lies in C, C++, and Python, and I'm diving deep into Machine Learning and Data Science to solve complex problems and make data-driven decisions.
+<h1>👋 Hello, I'm Banseedhar</h1>
 
-🛠️ Tech Stack:
-Languages & Tools:
+<h2>👨‍💻 Software Engineer at Samsung Research, Bangalore</h2>
+
+<p>
+  I’m passionate about developing intelligent systems and exploring the vast world of data. My expertise lies in 
+  <strong>C</strong>, <strong>C++</strong>, and <strong>Python</strong>, and I'm diving deep into 
+  <strong>Machine Learning</strong> and <strong>Data Science</strong> to solve complex problems and make data-driven decisions.
+</p>
+
+<h3>🛠️ Tech Stack:</h3>
+<h4>Languages & Tools:</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="C++"/>
@@ -19,13 +26,21 @@ Languages & Tools:
   <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/scikit--learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/pytorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
-I’m currently learning:
-🤖 Advanced Machine Learning & Deep Learning
-📊 Data Science Techniques and Tools
-I’m looking to collaborate on:
-🤝 Open-source projects related to machine learning, data science, or AI research.
-GitHub Stats:
+
+<h3>I’m currently learning:</h3>
+<ul>
+  <li>🤖 Advanced Machine Learning & Deep Learning</li>
+  <li>📊 Data Science Techniques and Tools</li>
+</ul>
+
+<h3>I’m looking to collaborate on:</h3>
+<ul>
+  <li>🤝 Open-source projects related to machine learning, data science, or AI research.</li>
+</ul>
+
+<h3>GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Banseedhar01&theme=chartreuse-dark&show_icons=true" alt="Banseedhar's GitHub Stats"/>
   <br/>
@@ -33,3 +48,4 @@ GitHub Stats:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banseedhar01&theme=chartreuse-dark&layout=compact" alt="Top Languages"/>
 </p>
+
