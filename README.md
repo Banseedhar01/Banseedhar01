@@ -28,19 +28,16 @@ Software Engineer at Samsung with a passion for AI, Tech, Finance, and Business.
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   
 </p>
-
+<!---
 <h3>I’m currently learning:</h3>
 <ul>
   <li>🤖 Advanced Machine Learning & Deep Learning</li>
   <li>📊 Data Science Techniques and Tools</li>
 </ul>
-
 <h3>I’m looking to collaborate on:</h3>
 <ul>
   <li>🤝 Open-source projects related to machine learning, data science, or AI research.</li>
 </ul>
-
-<!---
 <h3>GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Banseedhar01&theme=chartreuse-dark&show_icons=true" alt="Banseedhar's GitHub Stats"/>
@@ -49,4 +46,5 @@ Software Engineer at Samsung with a passion for AI, Tech, Finance, and Business.
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banseedhar01&theme=chartreuse-dark&layout=compact" alt="Top Languages"/>
 </p>
+
 -->
