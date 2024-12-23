@@ -39,7 +39,9 @@
 <ul>
   <li>🤝 Open-source projects related to machine learning, data science, or AI research.</li>
 </ul>
-/*
+<!---
+
+
 <h3>GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Banseedhar01&theme=chartreuse-dark&show_icons=true" alt="Banseedhar's GitHub Stats"/>
@@ -48,4 +50,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banseedhar01&theme=chartreuse-dark&layout=compact" alt="Top Languages"/>
 </p>
-*/
+
+-->
