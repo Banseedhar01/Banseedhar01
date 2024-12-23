@@ -3,9 +3,7 @@
 <h2>👨‍💻 Software Engineer at Samsung Research, Bangalore</h2>
 
 <p>
-  I’m passionate about developing intelligent systems and exploring the vast world of data. My expertise lies in 
-  <strong>C</strong>, <strong>C++</strong>, and <strong>Python</strong>, and I'm diving deep into 
-  <strong>Machine Learning</strong> and <strong>Data Science</strong> to solve complex problems and make data-driven decisions.
+Software Engineer at Samsung with a passion for AI, Tech, Finance, and Business. Graduated from NIT Surat in 2023 with a degree in Computer Science and Engineering. Proven ability to design, develop, and deliver innovative software solutions. Expertise in a variety of programming languages and technologies, including Python, C++, ML, DL etc... Eager to learn and grow, and always looking for new challenges..
 </p>
 
 <h3>🛠️ Tech Stack:</h3>
