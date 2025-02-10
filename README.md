@@ -23,6 +23,6 @@ I specialize in **Natural Language Processing (NLP), Computer Vision, and Genera
 📫 **Reach Out to Me:**  
 💌 Email: [banseedhargondaliya786@gmail.com](mailto:banseedhargondaliya786@gmail.com)  
 🔗 GitHub: [Banseedhar01](https://github.com/Banseedhar01)  
-💼 LinkedIn: [Banseedhar Gondaliya](https://www.linkedin.com/in/banseedhar-gondaliya/)  
+💼 LinkedIn: [Banseedhar Gondaliya]([https://www.linkedin.com/in/banseedhar-gondaliya/](https://www.linkedin.com/in/banseedhar-g-b84472193/))  
 
 🚀 Let's build intelligent AI solutions together!  
