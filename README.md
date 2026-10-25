@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Banseedhar Gondaliya  
 
-🚀 **Machine Learning Engineer @ Samsung Research**  
+🚀 **Machine Learning Engineer @ IDFC FIRST BANK**  
 🔍 **Passionate about AI, Data Science, and Scalable ML Solutions**  
 
 I specialize in **Natural Language Processing (NLP), Computer Vision, and Generative AI**, leveraging **transformers, CNNs, LSTMs, and BERT** to build **efficient, intelligent, and real-world AI applications**.  
